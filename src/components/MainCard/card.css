@@ -1,0 +1,24 @@
+.card-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.img-div{
+    /* height: 412px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+
+    height: 412px;
+    width: calc(16.666% - 20px); /* Adjust width to fit 6 cards in a row */
+    margin: 10px; /* Add some margin to create space between cards */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-div img{
+    width: 306px;
+    height: 399px;
+}

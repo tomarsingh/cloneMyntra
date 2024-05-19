@@ -1,0 +1,33 @@
+.mainbox{
+    display: flex;
+    margin:0px;
+    padding:0px;
+    justify-content:center;
+    
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+.mainheading{
+    font-size:14px;
+    color:#f26a10;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-weight:700;
+}
+
+li{
+    color:#282c3f;
+    padding-bottom:10px;
+}
+
+.second{
+    background-color: rgb(246, 246, 243);
+}
+
+.fourth{
+    background-color: rgb(246, 246, 243);
+}

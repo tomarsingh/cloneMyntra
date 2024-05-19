@@ -1,0 +1,49 @@
+.boxCOntainer{
+    
+    height:"50px";
+    width: 90%;
+    display: flex;
+}
+
+.head{
+    color:red;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom: 10px;
+}
+
+.first{
+    background-color:white;
+    width:20%;
+    padding-right: 3%;
+}
+.second{
+    background-color: #f8f5f0;
+   padding-right: 3%;
+    width:20%;
+}
+.third{
+    background-color: white;
+    width:20%;
+    padding-right: 3%;
+}
+
+.fourth{
+    background-color: #f8f5f0;
+    padding-right: 3%;
+    width:20%;
+}
+.fifth{
+    background-color: white;
+    width:20%;
+    padding-right: 3%;
+}
+
+.line{
+    margin:32px 0px 32px 0px;
+}

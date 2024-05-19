@@ -1,0 +1,58 @@
+.mainContainerprofile{
+    box-sizing: border-box;
+    margin: 0px;
+    padding:0px;
+    border: 7px solid #F5F5F6;
+    padding-left:25px;
+    width:400px;
+    z-index:5px;
+    background-color:white;
+    margin-left:80rem;
+
+}
+
+.welcomeheading{
+    font-weight:800 !important;
+    /* color:#4F4F4F; */
+    color:black;
+}
+
+.subprofileheading{
+    color:#4F4F4F;
+    margin-bottom:10px !important;
+    font-weight:400 !important;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    color: #FF7797 !important;
+    font-weight:800 !important;
+    border: 3px solid #F5F5F6 !important;
+}
+
+.profiledivider{
+    margin-top:25px !important;
+    margin-bottom:25px !important;
+}
+
+.profileNew{
+    background-color:#FF7797;
+    color:white;
+    font-size:11px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:35px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    padding-left:13px;
+    transform: skew(-10deg);
+}
+
+
+.bigBox{
+    width:100% !important;
+    background-color: #FF7797;
+    margin-left: 140rem;
+}
+

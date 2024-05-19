@@ -1,0 +1,45 @@
+.mainBox{
+    justify-content:center;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    width: 500px;
+    margin-left:95%;
+    background-color:white;
+}
+
+.image1{
+
+    width:200px;
+    /* height:200px; */
+    
+}
+
+
+*{
+    box-sizing: border-box;
+    justify-content:center;
+}
+
+.boxpart1{
+    margin:0px;
+    padding:0px;
+    display:flex;
+    flex-direction: column;
+    margin-left: 144px !important;
+    
+}
+
+.studioheading{
+    color:grey;
+}
+
+.boxpart2{
+    margin:0px;
+    padding:0px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+
+}

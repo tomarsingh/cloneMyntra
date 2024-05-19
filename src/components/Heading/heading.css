@@ -1,0 +1,14 @@
+.main{
+    width:"100%";
+    text-transform: uppercase;
+    color: #3e4152;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0px 10px 30px;
+    font-weight:700;
+    max-height: 5em;
+    padding: 10px;
+
+}

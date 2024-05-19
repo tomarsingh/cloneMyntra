@@ -1,0 +1,68 @@
+.loginMainContainer{
+    background-color:#FDEFEA;
+    width:100wh;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
+
+.loginSubBox{
+    background-color:white;
+    margin-top: 25px;
+    height: 520px;
+}
+
+.number{
+    color:black;
+}
+
+.subboxlogin{
+    /* background-color: brown !important; */
+    padding-left:42px;
+    /* display: flex;
+    align-items:center;
+    flex-direction: column; */
+    margin-top: 45px;
+}
+
+
+.loginorsignupHeading{
+    font-weight: 600 !important;
+    font-size:26px !important;
+    color:#444755 !important;
+    margin-top:30px;
+    padding-bottom: 20px;
+}
+
+.mobilenumfields{
+    width: 200px;
+}
+
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root {
+    width:84% !important;
+}
+
+.loginSpan{
+    font-weight:100 !important;
+    font-size:21px;
+    color:#535766 !important;
+}
+
+
+.paraoflogin{
+    color:#656875;
+    padding-top:20px;
+    padding-bottom:23px;
+}
+
+.pinkColorPara{
+    color:#FF8CAA;
+    font-weight:900;
+}
+
+.css-zddlty-MuiButtonBase-root-MuiButton-root {
+    width: 418px;
+    background-color: #FF3F6C !important;
+}
